@@ -66,6 +66,8 @@ export function updateIn (rootVal, paths, f, ...args) {
       : newRootVal;
 }
 
+export default updateIn;
+
 
 
 // Helper methods for forming react-addons-update commands.
