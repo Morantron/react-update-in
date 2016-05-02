@@ -3,7 +3,7 @@ Persistent functional object updates on vanilla js data structures (wraps react-
 
 ## Quick Examples
 ```javascript
-import {updateIn, merge, push, unshift, splice, assoc, dissoc} from 'update-in';
+import {updateIn, merge, push, unshift, splice, assoc, dissoc} from 'react-update-in';
 
 const val = {a: {b: 0, c: 2}, xs: [1, 2]};
 
